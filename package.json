@@ -1,0 +1,28 @@
+{
+  "name": "jestcoverage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kes-phyl/jestCoverage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kes-phyl/jestCoverage/issues"
+  },
+  "homepage": "https://github.com/kes-phyl/jestCoverage#readme",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "jest": "^29.3.1",
+    "jsdom": "^20.0.3"
+  }
+}
